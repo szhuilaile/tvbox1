@@ -1,5 +1,5 @@
 {
-  "spider": "./cw.jar",
+  "spider": "./https://fs-im-kefu.7moor-fs1.com",
   "sites": [
     {
       "key": "豆瓣",
