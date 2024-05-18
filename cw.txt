@@ -1,5 +1,5 @@
 {
-  "spider": "./spider/cw.jar",
+  "spider": "./cw.jar",
   "sites": [
     {
       "key": "豆瓣",
