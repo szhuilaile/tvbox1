@@ -8,7 +8,6 @@
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
       "playerType": 1
     }
-  ]
   "sites": [
  {
       "key": "玩偶",
