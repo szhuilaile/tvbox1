@@ -1395,4 +1395,1355 @@ SPA按摩4,https://t5s.cdn2020.com/video/m3u8/2020/11/20/deafa3c3/index.m3u8
 后宫争宠传-陈可欣,https://t18.cdn2020.com:12342/video/m3u8/2022/05/23/1a2a2ce0/index.m3u8
 禁宫奢赢传-陈可欣,https://t20.cdn2020.com/video/m3u8/2022/10/08/a56de8a2/index.m3u8
 
+直播_1995,#genre#
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:132938058
+https://edge-hls.doppiocdn.com/hls/132938058/master/132938058.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:112259619
+https://edge-hls.doppiocdn.com/hls/112259619/master/112259619.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:118966781
+https://edge-hls.doppiocdn.com/hls/118966781/master/118966781.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:137004728
+https://edge-hls.doppiocdn.com/hls/137004728/master/137004728.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:107278959
+https://edge-hls.doppiocdn.com/hls/107278959/master/107278959.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:125533131
+https://edge-hls.doppiocdn.com/hls/125533131/master/125533131.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:141325849
+https://edge-hls.doppiocdn.com/hls/141325849/master/141325849.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:152991947
+https://edge-hls.doppiocdn.com/hls/152991947/master/152991947.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:139007065
+https://edge-hls.doppiocdn.com/hls/139007065/master/139007065.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:133907929
+https://edge-hls.doppiocdn.com/hls/133907929/master/133907929.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:124574861
+https://edge-hls.doppiocdn.com/hls/124574861/master/124574861.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:150579793
+https://edge-hls.doppiocdn.com/hls/150579793/master/150579793.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:105376948
+https://edge-hls.doppiocdn.com/hls/105376948/master/105376948.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:96596119
+https://edge-hls.doppiocdn.com/hls/96596119/master/96596119.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:72449449
+https://edge-hls.doppiocdn.com/hls/72449449/master/72449449.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:105790259
+https://edge-hls.doppiocdn.com/hls/105790259/master/105790259.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:77566268
+https://edge-hls.doppiocdn.com/hls/77566268/master/77566268.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:88703317
+https://edge-hls.doppiocdn.com/hls/88703317/master/88703317.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:118753995
+https://edge-hls.doppiocdn.com/hls/118753995/master/118753995.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:117211778
+https://edge-hls.doppiocdn.com/hls/117211778/master/117211778.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:63614154
+https://edge-hls.doppiocdn.com/hls/63614154/master/63614154.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:119760843
+https://edge-hls.doppiocdn.com/hls/119760843/master/119760843.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147782008
+https://edge-hls.doppiocdn.com/hls/147782008/master/147782008.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155576799
+https://edge-hls.doppiocdn.com/hls/155576799/master/155576799.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155837373
+https://edge-hls.doppiocdn.com/hls/155837373/master/155837373.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:79295662
+https://edge-hls.doppiocdn.com/hls/79295662/master/79295662.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154039196
+https://edge-hls.doppiocdn.com/hls/154039196/master/154039196.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:46215856
+https://edge-hls.doppiocdn.com/hls/46215856/master/46215856.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:96446328
+https://edge-hls.doppiocdn.com/hls/96446328/master/96446328.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:146969458
+https://edge-hls.doppiocdn.com/hls/146969458/master/146969458.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155236541
+https://edge-hls.doppiocdn.com/hls/155236541/master/155236541.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:115943506
+https://edge-hls.doppiocdn.com/hls/115943506/master/115943506.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:132580475
+https://edge-hls.doppiocdn.com/hls/132580475/master/132580475.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154744636
+https://edge-hls.doppiocdn.com/hls/154744636/master/154744636.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:72293127
+https://edge-hls.doppiocdn.com/hls/72293127/master/72293127.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:89168708
+https://edge-hls.doppiocdn.com/hls/89168708/master/89168708.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:109862333
+https://edge-hls.doppiocdn.com/hls/109862333/master/109862333.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155477585
+https://edge-hls.doppiocdn.com/hls/155477585/master/155477585.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:151694993
+https://edge-hls.doppiocdn.com/hls/151694993/master/151694993.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:85225465
+https://edge-hls.doppiocdn.com/hls/85225465/master/85225465.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:95102032
+https://edge-hls.doppiocdn.com/hls/95102032/master/95102032.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:69473263
+https://edge-hls.doppiocdn.com/hls/69473263/master/69473263.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:153021877
+https://edge-hls.doppiocdn.com/hls/153021877/master/153021877.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:76283032
+https://edge-hls.doppiocdn.com/hls/76283032/master/76283032.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:53782790
+https://edge-hls.doppiocdn.com/hls/53782790/master/53782790.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:133812158
+https://edge-hls.doppiocdn.com/hls/133812158/master/133812158.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:111983528
+https://edge-hls.doppiocdn.com/hls/111983528/master/111983528.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:137468395
+https://edge-hls.doppiocdn.com/hls/137468395/master/137468395.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:16601963
+https://edge-hls.doppiocdn.com/hls/16601963/master/16601963.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:144204731
+https://edge-hls.doppiocdn.com/hls/144204731/master/144204731.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:111982648
+https://edge-hls.doppiocdn.com/hls/111982648/master/111982648.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:6427263
+https://edge-hls.doppiocdn.com/hls/6427263/master/6427263.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:53807232
+https://edge-hls.doppiocdn.com/hls/53807232/master/53807232.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147198566
+https://edge-hls.doppiocdn.com/hls/147198566/master/147198566.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:50732748
+https://edge-hls.doppiocdn.com/hls/50732748/master/50732748.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:149141546
+https://edge-hls.doppiocdn.com/hls/149141546/master/149141546.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:1732803
+https://edge-hls.doppiocdn.com/hls/1732803/master/1732803.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:135340273
+https://edge-hls.doppiocdn.com/hls/135340273/master/135340273.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:76629699
+https://edge-hls.doppiocdn.com/hls/76629699/master/76629699.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:123429135
+https://edge-hls.doppiocdn.com/hls/123429135/master/123429135.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:87195076
+https://edge-hls.doppiocdn.com/hls/87195076/master/87195076.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:91903119
+https://edge-hls.doppiocdn.com/hls/91903119/master/91903119.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:138028807
+https://edge-hls.doppiocdn.com/hls/138028807/master/138028807.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:120047381
+https://edge-hls.doppiocdn.com/hls/120047381/master/120047381.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:109674963
+https://edge-hls.doppiocdn.com/hls/109674963/master/109674963.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:54546984
+https://edge-hls.doppiocdn.com/hls/54546984/master/54546984.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:87210366
+https://edge-hls.doppiocdn.com/hls/87210366/master/87210366.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:124274863
+https://edge-hls.doppiocdn.com/hls/124274863/master/124274863.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:137708235
+https://edge-hls.doppiocdn.com/hls/137708235/master/137708235.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:119493748
+https://edge-hls.doppiocdn.com/hls/119493748/master/119493748.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155243173
+https://edge-hls.doppiocdn.com/hls/155243173/master/155243173.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:149137861
+https://edge-hls.doppiocdn.com/hls/149137861/master/149137861.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:144947153
+https://edge-hls.doppiocdn.com/hls/144947153/master/144947153.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:135215744
+https://edge-hls.doppiocdn.com/hls/135215744/master/135215744.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:150913063
+https://edge-hls.doppiocdn.com/hls/150913063/master/150913063.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154822343
+https://edge-hls.doppiocdn.com/hls/154822343/master/154822343.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:98161177
+https://edge-hls.doppiocdn.com/hls/98161177/master/98161177.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:129935523
+https://edge-hls.doppiocdn.com/hls/129935523/master/129935523.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:78206796
+https://edge-hls.doppiocdn.com/hls/78206796/master/78206796.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:15804515
+https://edge-hls.doppiocdn.com/hls/15804515/master/15804515.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:124006554
+https://edge-hls.doppiocdn.com/hls/124006554/master/124006554.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:98536722
+https://edge-hls.doppiocdn.com/hls/98536722/master/98536722.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:133034406
+https://edge-hls.doppiocdn.com/hls/133034406/master/133034406.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:85886318
+https://edge-hls.doppiocdn.com/hls/85886318/master/85886318.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:130479831
+https://edge-hls.doppiocdn.com/hls/130479831/master/130479831.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:137125412
+https://edge-hls.doppiocdn.com/hls/137125412/master/137125412.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147788002
+https://edge-hls.doppiocdn.com/hls/147788002/master/147788002.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155898747
+https://edge-hls.doppiocdn.com/hls/155898747/master/155898747.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:141713416
+https://edge-hls.doppiocdn.com/hls/141713416/master/141713416.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:144903195
+https://edge-hls.doppiocdn.com/hls/144903195/master/144903195.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:65630005
+https://edge-hls.doppiocdn.com/hls/65630005/master/65630005.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:151455328
+https://edge-hls.doppiocdn.com/hls/151455328/master/151455328.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:134475918
+https://edge-hls.doppiocdn.com/hls/134475918/master/134475918.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147000496
+https://edge-hls.doppiocdn.com/hls/147000496/master/147000496.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:124138982
+https://edge-hls.doppiocdn.com/hls/124138982/master/124138982.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:116494353
+https://edge-hls.doppiocdn.com/hls/116494353/master/116494353.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:136327477
+https://edge-hls.doppiocdn.com/hls/136327477/master/136327477.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:150503930
+https://edge-hls.doppiocdn.com/hls/150503930/master/150503930.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155658429
+https://edge-hls.doppiocdn.com/hls/155658429/master/155658429.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:149997040
+https://edge-hls.doppiocdn.com/hls/149997040/master/149997040.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:134501256
+https://edge-hls.doppiocdn.com/hls/134501256/master/134501256.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:146398737
+https://edge-hls.doppiocdn.com/hls/146398737/master/146398737.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:134448994
+https://edge-hls.doppiocdn.com/hls/134448994/master/134448994.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154859557
+https://edge-hls.doppiocdn.com/hls/154859557/master/154859557.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:136551418
+https://edge-hls.doppiocdn.com/hls/136551418/master/136551418.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148150517
+https://edge-hls.doppiocdn.com/hls/148150517/master/148150517.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155691124
+https://edge-hls.doppiocdn.com/hls/155691124/master/155691124.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:108479337
+https://edge-hls.doppiocdn.com/hls/108479337/master/108479337.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147673931
+https://edge-hls.doppiocdn.com/hls/147673931/master/147673931.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:132485598
+https://edge-hls.doppiocdn.com/hls/132485598/master/132485598.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148227914
+https://edge-hls.doppiocdn.com/hls/148227914/master/148227914.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154888410
+https://edge-hls.doppiocdn.com/hls/154888410/master/154888410.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:145921949
+https://edge-hls.doppiocdn.com/hls/145921949/master/145921949.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:34783546
+https://edge-hls.doppiocdn.com/hls/34783546/master/34783546.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154860093
+https://edge-hls.doppiocdn.com/hls/154860093/master/154860093.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:55143027
+https://edge-hls.doppiocdn.com/hls/55143027/master/55143027.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:149464992
+https://edge-hls.doppiocdn.com/hls/149464992/master/149464992.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:29813296
+https://edge-hls.doppiocdn.com/hls/29813296/master/29813296.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:118863020
+https://edge-hls.doppiocdn.com/hls/118863020/master/118863020.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:151039269
+https://edge-hls.doppiocdn.com/hls/151039269/master/151039269.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:113339961
+https://edge-hls.doppiocdn.com/hls/113339961/master/113339961.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:152738265
+https://edge-hls.doppiocdn.com/hls/152738265/master/152738265.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147803352
+https://edge-hls.doppiocdn.com/hls/147803352/master/147803352.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:150200498
+https://edge-hls.doppiocdn.com/hls/150200498/master/150200498.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:104280274
+https://edge-hls.doppiocdn.com/hls/104280274/master/104280274.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:150070843
+https://edge-hls.doppiocdn.com/hls/150070843/master/150070843.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:130943722
+https://edge-hls.doppiocdn.com/hls/130943722/master/130943722.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:108609651
+https://edge-hls.doppiocdn.com/hls/108609651/master/108609651.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:98517207
+https://edge-hls.doppiocdn.com/hls/98517207/master/98517207.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:131077830
+https://edge-hls.doppiocdn.com/hls/131077830/master/131077830.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:152168051
+https://edge-hls.doppiocdn.com/hls/152168051/master/152168051.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:132333833
+https://edge-hls.doppiocdn.com/hls/132333833/master/132333833.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:149913704
+https://edge-hls.doppiocdn.com/hls/149913704/master/149913704.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:48448858
+https://edge-hls.doppiocdn.com/hls/48448858/master/48448858.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:151922035
+https://edge-hls.doppiocdn.com/hls/151922035/master/151922035.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147107872
+https://edge-hls.doppiocdn.com/hls/147107872/master/147107872.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:74510481
+https://edge-hls.doppiocdn.com/hls/74510481/master/74510481.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:106578002
+https://edge-hls.doppiocdn.com/hls/106578002/master/106578002.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:80533582
+https://edge-hls.doppiocdn.com/hls/80533582/master/80533582.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:80308507
+https://edge-hls.doppiocdn.com/hls/80308507/master/80308507.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:144471532
+https://edge-hls.doppiocdn.com/hls/144471532/master/144471532.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:102770073
+https://edge-hls.doppiocdn.com/hls/102770073/master/102770073.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:96688611
+https://edge-hls.doppiocdn.com/hls/96688611/master/96688611.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:123102276
+https://edge-hls.doppiocdn.com/hls/123102276/master/123102276.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:130365736
+https://edge-hls.doppiocdn.com/hls/130365736/master/130365736.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:79216122
+https://edge-hls.doppiocdn.com/hls/79216122/master/79216122.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:42541530
+https://edge-hls.doppiocdn.com/hls/42541530/master/42541530.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:127473789
+https://edge-hls.doppiocdn.com/hls/127473789/master/127473789.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:151810071
+https://edge-hls.doppiocdn.com/hls/151810071/master/151810071.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:143796653
+https://edge-hls.doppiocdn.com/hls/143796653/master/143796653.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155319163
+https://edge-hls.doppiocdn.com/hls/155319163/master/155319163.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154410253
+https://edge-hls.doppiocdn.com/hls/154410253/master/154410253.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154971128
+https://edge-hls.doppiocdn.com/hls/154971128/master/154971128.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155778074
+https://edge-hls.doppiocdn.com/hls/155778074/master/155778074.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154031112
+https://edge-hls.doppiocdn.com/hls/154031112/master/154031112.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155208281
+https://edge-hls.doppiocdn.com/hls/155208281/master/155208281.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155038590
+https://edge-hls.doppiocdn.com/hls/155038590/master/155038590.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154497787
+https://edge-hls.doppiocdn.com/hls/154497787/master/154497787.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154448374
+https://edge-hls.doppiocdn.com/hls/154448374/master/154448374.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155104715
+https://edge-hls.doppiocdn.com/hls/155104715/master/155104715.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154292618
+https://edge-hls.doppiocdn.com/hls/154292618/master/154292618.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155707696
+https://edge-hls.doppiocdn.com/hls/155707696/master/155707696.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155479576
+https://edge-hls.doppiocdn.com/hls/155479576/master/155479576.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:108656592
+https://edge-hls.doppiocdn.com/hls/108656592/master/108656592.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:128557571
+https://edge-hls.doppiocdn.com/hls/128557571/master/128557571.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:109028144
+https://edge-hls.doppiocdn.com/hls/109028144/master/109028144.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:132050357
+https://edge-hls.doppiocdn.com/hls/132050357/master/132050357.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:105166427
+https://edge-hls.doppiocdn.com/hls/105166427/master/105166427.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:149999894
+https://edge-hls.doppiocdn.com/hls/149999894/master/149999894.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:142740985
+https://edge-hls.doppiocdn.com/hls/142740985/master/142740985.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:94236736
+https://edge-hls.doppiocdn.com/hls/94236736/master/94236736.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:134231249
+https://edge-hls.doppiocdn.com/hls/134231249/master/134231249.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:70613525
+https://edge-hls.doppiocdn.com/hls/70613525/master/70613525.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:75132059
+https://edge-hls.doppiocdn.com/hls/75132059/master/75132059.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:145203288
+https://edge-hls.doppiocdn.com/hls/145203288/master/145203288.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:96069006
+https://edge-hls.doppiocdn.com/hls/96069006/master/96069006.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:150905407
+https://edge-hls.doppiocdn.com/hls/150905407/master/150905407.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155267899
+https://edge-hls.doppiocdn.com/hls/155267899/master/155267899.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:101899572
+https://edge-hls.doppiocdn.com/hls/101899572/master/101899572.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:108454384
+https://edge-hls.doppiocdn.com/hls/108454384/master/108454384.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:95578156
+https://edge-hls.doppiocdn.com/hls/95578156/master/95578156.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148506553
+https://edge-hls.doppiocdn.com/hls/148506553/master/148506553.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:141086391
+https://edge-hls.doppiocdn.com/hls/141086391/master/141086391.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:53502372
+https://edge-hls.doppiocdn.com/hls/53502372/master/53502372.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:50374792
+https://edge-hls.doppiocdn.com/hls/50374792/master/50374792.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:65511066
+https://edge-hls.doppiocdn.com/hls/65511066/master/65511066.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:134242708
+https://edge-hls.doppiocdn.com/hls/134242708/master/134242708.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:141397631
+https://edge-hls.doppiocdn.com/hls/141397631/master/141397631.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:119007122
+https://edge-hls.doppiocdn.com/hls/119007122/master/119007122.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:72618248
+https://edge-hls.doppiocdn.com/hls/72618248/master/72618248.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:123955080
+https://edge-hls.doppiocdn.com/hls/123955080/master/123955080.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:145965793
+https://edge-hls.doppiocdn.com/hls/145965793/master/145965793.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:46562111
+https://edge-hls.doppiocdn.com/hls/46562111/master/46562111.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:80429094
+https://edge-hls.doppiocdn.com/hls/80429094/master/80429094.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:149691541
+https://edge-hls.doppiocdn.com/hls/149691541/master/149691541.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:141728351
+https://edge-hls.doppiocdn.com/hls/141728351/master/141728351.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:146077641
+https://edge-hls.doppiocdn.com/hls/146077641/master/146077641.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:96892986
+https://edge-hls.doppiocdn.com/hls/96892986/master/96892986.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:104020303
+https://edge-hls.doppiocdn.com/hls/104020303/master/104020303.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:146276892
+https://edge-hls.doppiocdn.com/hls/146276892/master/146276892.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:19092076
+https://edge-hls.doppiocdn.com/hls/19092076/master/19092076.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155092145
+https://edge-hls.doppiocdn.com/hls/155092145/master/155092145.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148624087
+https://edge-hls.doppiocdn.com/hls/148624087/master/148624087.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:31109291
+https://edge-hls.doppiocdn.com/hls/31109291/master/31109291.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:136107708
+https://edge-hls.doppiocdn.com/hls/136107708/master/136107708.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:117178833
+https://edge-hls.doppiocdn.com/hls/117178833/master/117178833.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:131619419
+https://edge-hls.doppiocdn.com/hls/131619419/master/131619419.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:137834375
+https://edge-hls.doppiocdn.com/hls/137834375/master/137834375.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:59966738
+https://edge-hls.doppiocdn.com/hls/59966738/master/59966738.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147031675
+https://edge-hls.doppiocdn.com/hls/147031675/master/147031675.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:143423427
+https://edge-hls.doppiocdn.com/hls/143423427/master/143423427.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:94873646
+https://edge-hls.doppiocdn.com/hls/94873646/master/94873646.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147570689
+https://edge-hls.doppiocdn.com/hls/147570689/master/147570689.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:92023333
+https://edge-hls.doppiocdn.com/hls/92023333/master/92023333.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:131950869
+https://edge-hls.doppiocdn.com/hls/131950869/master/131950869.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:144973826
+https://edge-hls.doppiocdn.com/hls/144973826/master/144973826.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148273314
+https://edge-hls.doppiocdn.com/hls/148273314/master/148273314.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:41469548
+https://edge-hls.doppiocdn.com/hls/41469548/master/41469548.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155463021
+https://edge-hls.doppiocdn.com/hls/155463021/master/155463021.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:153773584
+https://edge-hls.doppiocdn.com/hls/153773584/master/153773584.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:133582821
+https://edge-hls.doppiocdn.com/hls/133582821/master/133582821.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:112448127
+https://edge-hls.doppiocdn.com/hls/112448127/master/112448127.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:137930491
+https://edge-hls.doppiocdn.com/hls/137930491/master/137930491.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148145423
+https://edge-hls.doppiocdn.com/hls/148145423/master/148145423.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:145704533
+https://edge-hls.doppiocdn.com/hls/145704533/master/145704533.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:145000958
+https://edge-hls.doppiocdn.com/hls/145000958/master/145000958.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:138785116
+https://edge-hls.doppiocdn.com/hls/138785116/master/138785116.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147241587
+https://edge-hls.doppiocdn.com/hls/147241587/master/147241587.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:121251507
+https://edge-hls.doppiocdn.com/hls/121251507/master/121251507.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:127743511
+https://edge-hls.doppiocdn.com/hls/127743511/master/127743511.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155470435
+https://edge-hls.doppiocdn.com/hls/155470435/master/155470435.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148721298
+https://edge-hls.doppiocdn.com/hls/148721298/master/148721298.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:123987655
+https://edge-hls.doppiocdn.com/hls/123987655/master/123987655.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:119582999
+https://edge-hls.doppiocdn.com/hls/119582999/master/119582999.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:1413893
+https://edge-hls.doppiocdn.com/hls/1413893/master/1413893.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:152378520
+https://edge-hls.doppiocdn.com/hls/152378520/master/152378520.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:115509281
+https://edge-hls.doppiocdn.com/hls/115509281/master/115509281.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:130044631
+https://edge-hls.doppiocdn.com/hls/130044631/master/130044631.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:125704469
+https://edge-hls.doppiocdn.com/hls/125704469/master/125704469.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:14206213
+https://edge-hls.doppiocdn.com/hls/14206213/master/14206213.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:95053784
+https://edge-hls.doppiocdn.com/hls/95053784/master/95053784.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:145901748
+https://edge-hls.doppiocdn.com/hls/145901748/master/145901748.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:122913842
+https://edge-hls.doppiocdn.com/hls/122913842/master/122913842.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:123303197
+https://edge-hls.doppiocdn.com/hls/123303197/master/123303197.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:145238434
+https://edge-hls.doppiocdn.com/hls/145238434/master/145238434.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:142933741
+https://edge-hls.doppiocdn.com/hls/142933741/master/142933741.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:131504744
+https://edge-hls.doppiocdn.com/hls/131504744/master/131504744.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:127510476
+https://edge-hls.doppiocdn.com/hls/127510476/master/127510476.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147397614
+https://edge-hls.doppiocdn.com/hls/147397614/master/147397614.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:82445252
+https://edge-hls.doppiocdn.com/hls/82445252/master/82445252.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:19918511
+https://edge-hls.doppiocdn.com/hls/19918511/master/19918511.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:116505012
+https://edge-hls.doppiocdn.com/hls/116505012/master/116505012.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:149708849
+https://edge-hls.doppiocdn.com/hls/149708849/master/149708849.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:138259560
+https://edge-hls.doppiocdn.com/hls/138259560/master/138259560.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:129022904
+https://edge-hls.doppiocdn.com/hls/129022904/master/129022904.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:82551819
+https://edge-hls.doppiocdn.com/hls/82551819/master/82551819.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:22226690
+https://edge-hls.doppiocdn.com/hls/22226690/master/22226690.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:112621710
+https://edge-hls.doppiocdn.com/hls/112621710/master/112621710.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:57242614
+https://edge-hls.doppiocdn.com/hls/57242614/master/57242614.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:51209079
+https://edge-hls.doppiocdn.com/hls/51209079/master/51209079.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:24121268
+https://edge-hls.doppiocdn.com/hls/24121268/master/24121268.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:100734111
+https://edge-hls.doppiocdn.com/hls/100734111/master/100734111.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:111158554
+https://edge-hls.doppiocdn.com/hls/111158554/master/111158554.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:138165614
+https://edge-hls.doppiocdn.com/hls/138165614/master/138165614.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:98547205
+https://edge-hls.doppiocdn.com/hls/98547205/master/98547205.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:90843166
+https://edge-hls.doppiocdn.com/hls/90843166/master/90843166.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:152400515
+https://edge-hls.doppiocdn.com/hls/152400515/master/152400515.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:150085408
+https://edge-hls.doppiocdn.com/hls/150085408/master/150085408.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:127869589
+https://edge-hls.doppiocdn.com/hls/127869589/master/127869589.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:89551361
+https://edge-hls.doppiocdn.com/hls/89551361/master/89551361.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:128563995
+https://edge-hls.doppiocdn.com/hls/128563995/master/128563995.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:72529448
+https://edge-hls.doppiocdn.com/hls/72529448/master/72529448.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:153746913
+https://edge-hls.doppiocdn.com/hls/153746913/master/153746913.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:146757377
+https://edge-hls.doppiocdn.com/hls/146757377/master/146757377.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:80625064
+https://edge-hls.doppiocdn.com/hls/80625064/master/80625064.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:109895052
+https://edge-hls.doppiocdn.com/hls/109895052/master/109895052.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:146836670
+https://edge-hls.doppiocdn.com/hls/146836670/master/146836670.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148045841
+https://edge-hls.doppiocdn.com/hls/148045841/master/148045841.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:135347140
+https://edge-hls.doppiocdn.com/hls/135347140/master/135347140.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:127351433
+https://edge-hls.doppiocdn.com/hls/127351433/master/127351433.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:149298983
+https://edge-hls.doppiocdn.com/hls/149298983/master/149298983.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:152283449
+https://edge-hls.doppiocdn.com/hls/152283449/master/152283449.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:150582964
+https://edge-hls.doppiocdn.com/hls/150582964/master/150582964.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:144381505
+https://edge-hls.doppiocdn.com/hls/144381505/master/144381505.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:136839009
+https://edge-hls.doppiocdn.com/hls/136839009/master/136839009.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148919777
+https://edge-hls.doppiocdn.com/hls/148919777/master/148919777.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:107064181
+https://edge-hls.doppiocdn.com/hls/107064181/master/107064181.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:141921856
+https://edge-hls.doppiocdn.com/hls/141921856/master/141921856.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147157161
+https://edge-hls.doppiocdn.com/hls/147157161/master/147157161.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:102578112
+https://edge-hls.doppiocdn.com/hls/102578112/master/102578112.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:153360146
+https://edge-hls.doppiocdn.com/hls/153360146/master/153360146.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:134975473
+https://edge-hls.doppiocdn.com/hls/134975473/master/134975473.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:111929966
+https://edge-hls.doppiocdn.com/hls/111929966/master/111929966.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:96167801
+https://edge-hls.doppiocdn.com/hls/96167801/master/96167801.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:152868194
+https://edge-hls.doppiocdn.com/hls/152868194/master/152868194.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:146056525
+https://edge-hls.doppiocdn.com/hls/146056525/master/146056525.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:143923600
+https://edge-hls.doppiocdn.com/hls/143923600/master/143923600.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:144979597
+https://edge-hls.doppiocdn.com/hls/144979597/master/144979597.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147028261
+https://edge-hls.doppiocdn.com/hls/147028261/master/147028261.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147569489
+https://edge-hls.doppiocdn.com/hls/147569489/master/147569489.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154257528
+https://edge-hls.doppiocdn.com/hls/154257528/master/154257528.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:137275089
+https://edge-hls.doppiocdn.com/hls/137275089/master/137275089.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:153006653
+https://edge-hls.doppiocdn.com/hls/153006653/master/153006653.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:146055668
+https://edge-hls.doppiocdn.com/hls/146055668/master/146055668.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155328940
+https://edge-hls.doppiocdn.com/hls/155328940/master/155328940.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:78726143
+https://edge-hls.doppiocdn.com/hls/78726143/master/78726143.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154053326
+https://edge-hls.doppiocdn.com/hls/154053326/master/154053326.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:143544455
+https://edge-hls.doppiocdn.com/hls/143544455/master/143544455.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:152541053
+https://edge-hls.doppiocdn.com/hls/152541053/master/152541053.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:152976664
+https://edge-hls.doppiocdn.com/hls/152976664/master/152976664.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:132681667
+https://edge-hls.doppiocdn.com/hls/132681667/master/132681667.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:151847332
+https://edge-hls.doppiocdn.com/hls/151847332/master/151847332.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148820118
+https://edge-hls.doppiocdn.com/hls/148820118/master/148820118.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:151922545
+https://edge-hls.doppiocdn.com/hls/151922545/master/151922545.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:152974664
+https://edge-hls.doppiocdn.com/hls/152974664/master/152974664.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:141716338
+https://edge-hls.doppiocdn.com/hls/141716338/master/141716338.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:152625190
+https://edge-hls.doppiocdn.com/hls/152625190/master/152625190.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:151044219
+https://edge-hls.doppiocdn.com/hls/151044219/master/151044219.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:152882849
+https://edge-hls.doppiocdn.com/hls/152882849/master/152882849.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:127475473
+https://edge-hls.doppiocdn.com/hls/127475473/master/127475473.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148843475
+https://edge-hls.doppiocdn.com/hls/148843475/master/148843475.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:150738677
+https://edge-hls.doppiocdn.com/hls/150738677/master/150738677.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:153377073
+https://edge-hls.doppiocdn.com/hls/153377073/master/153377073.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:149058178
+https://edge-hls.doppiocdn.com/hls/149058178/master/149058178.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:52427699
+https://edge-hls.doppiocdn.com/hls/52427699/master/52427699.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:119972879
+https://edge-hls.doppiocdn.com/hls/119972879/master/119972879.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:86748863
+https://edge-hls.doppiocdn.com/hls/86748863/master/86748863.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147900595
+https://edge-hls.doppiocdn.com/hls/147900595/master/147900595.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:128873708
+https://edge-hls.doppiocdn.com/hls/128873708/master/128873708.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:136154697
+https://edge-hls.doppiocdn.com/hls/136154697/master/136154697.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148174288
+https://edge-hls.doppiocdn.com/hls/148174288/master/148174288.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:131160301
+https://edge-hls.doppiocdn.com/hls/131160301/master/131160301.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:87925915
+https://edge-hls.doppiocdn.com/hls/87925915/master/87925915.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:119590298
+https://edge-hls.doppiocdn.com/hls/119590298/master/119590298.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:124921800
+https://edge-hls.doppiocdn.com/hls/124921800/master/124921800.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155067900
+https://edge-hls.doppiocdn.com/hls/155067900/master/155067900.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:64763426
+https://edge-hls.doppiocdn.com/hls/64763426/master/64763426.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:86999356
+https://edge-hls.doppiocdn.com/hls/86999356/master/86999356.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:123717390
+https://edge-hls.doppiocdn.com/hls/123717390/master/123717390.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:96568505
+https://edge-hls.doppiocdn.com/hls/96568505/master/96568505.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147016124
+https://edge-hls.doppiocdn.com/hls/147016124/master/147016124.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:70297143
+https://edge-hls.doppiocdn.com/hls/70297143/master/70297143.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:150686575
+https://edge-hls.doppiocdn.com/hls/150686575/master/150686575.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148232304
+https://edge-hls.doppiocdn.com/hls/148232304/master/148232304.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:77151734
+https://edge-hls.doppiocdn.com/hls/77151734/master/77151734.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147569065
+https://edge-hls.doppiocdn.com/hls/147569065/master/147569065.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:111054294
+https://edge-hls.doppiocdn.com/hls/111054294/master/111054294.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:124118829
+https://edge-hls.doppiocdn.com/hls/124118829/master/124118829.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:111361633
+https://edge-hls.doppiocdn.com/hls/111361633/master/111361633.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:152642030
+https://edge-hls.doppiocdn.com/hls/152642030/master/152642030.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:146053225
+https://edge-hls.doppiocdn.com/hls/146053225/master/146053225.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:132531018
+https://edge-hls.doppiocdn.com/hls/132531018/master/132531018.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:144446443
+https://edge-hls.doppiocdn.com/hls/144446443/master/144446443.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:62601781
+https://edge-hls.doppiocdn.com/hls/62601781/master/62601781.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154737331
+https://edge-hls.doppiocdn.com/hls/154737331/master/154737331.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:136196157
+https://edge-hls.doppiocdn.com/hls/136196157/master/136196157.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148488436
+https://edge-hls.doppiocdn.com/hls/148488436/master/148488436.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:118051619
+https://edge-hls.doppiocdn.com/hls/118051619/master/118051619.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:153331434
+https://edge-hls.doppiocdn.com/hls/153331434/master/153331434.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:149362247
+https://edge-hls.doppiocdn.com/hls/149362247/master/149362247.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:149939206
+https://edge-hls.doppiocdn.com/hls/149939206/master/149939206.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:153747712
+https://edge-hls.doppiocdn.com/hls/153747712/master/153747712.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:149768743
+https://edge-hls.doppiocdn.com/hls/149768743/master/149768743.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155099462
+https://edge-hls.doppiocdn.com/hls/155099462/master/155099462.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:110085343
+https://edge-hls.doppiocdn.com/hls/110085343/master/110085343.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:107018728
+https://edge-hls.doppiocdn.com/hls/107018728/master/107018728.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:89229492
+https://edge-hls.doppiocdn.com/hls/89229492/master/89229492.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:105897303
+https://edge-hls.doppiocdn.com/hls/105897303/master/105897303.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:14464317
+https://edge-hls.doppiocdn.com/hls/14464317/master/14464317.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:104522051
+https://edge-hls.doppiocdn.com/hls/104522051/master/104522051.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:37245911
+https://edge-hls.doppiocdn.com/hls/37245911/master/37245911.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:125922693
+https://edge-hls.doppiocdn.com/hls/125922693/master/125922693.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:139998250
+https://edge-hls.doppiocdn.com/hls/139998250/master/139998250.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:150173749
+https://edge-hls.doppiocdn.com/hls/150173749/master/150173749.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:143306669
+https://edge-hls.doppiocdn.com/hls/143306669/master/143306669.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:100678244
+https://edge-hls.doppiocdn.com/hls/100678244/master/100678244.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:129075440
+https://edge-hls.doppiocdn.com/hls/129075440/master/129075440.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:32751221
+https://edge-hls.doppiocdn.com/hls/32751221/master/32751221.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:145091126
+https://edge-hls.doppiocdn.com/hls/145091126/master/145091126.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:69750235
+https://edge-hls.doppiocdn.com/hls/69750235/master/69750235.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:104336931
+https://edge-hls.doppiocdn.com/hls/104336931/master/104336931.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:56269980
+https://edge-hls.doppiocdn.com/hls/56269980/master/56269980.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:153706316
+https://edge-hls.doppiocdn.com/hls/153706316/master/153706316.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:123427803
+https://edge-hls.doppiocdn.com/hls/123427803/master/123427803.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:139984196
+https://edge-hls.doppiocdn.com/hls/139984196/master/139984196.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:112774459
+https://edge-hls.doppiocdn.com/hls/112774459/master/112774459.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:140486932
+https://edge-hls.doppiocdn.com/hls/140486932/master/140486932.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:144938843
+https://edge-hls.doppiocdn.com/hls/144938843/master/144938843.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:62619056
+https://edge-hls.doppiocdn.com/hls/62619056/master/62619056.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:147702698
+https://edge-hls.doppiocdn.com/hls/147702698/master/147702698.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148016762
+https://edge-hls.doppiocdn.com/hls/148016762/master/148016762.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155227258
+https://edge-hls.doppiocdn.com/hls/155227258/master/155227258.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155212338
+https://edge-hls.doppiocdn.com/hls/155212338/master/155212338.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:152304788
+https://edge-hls.doppiocdn.com/hls/152304788/master/152304788.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:110670645
+https://edge-hls.doppiocdn.com/hls/110670645/master/110670645.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:71677044
+https://edge-hls.doppiocdn.com/hls/71677044/master/71677044.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:153989521
+https://edge-hls.doppiocdn.com/hls/153989521/master/153989521.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:105979669
+https://edge-hls.doppiocdn.com/hls/105979669/master/105979669.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:20298541
+https://edge-hls.doppiocdn.com/hls/20298541/master/20298541.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154872664
+https://edge-hls.doppiocdn.com/hls/154872664/master/154872664.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:128252756
+https://edge-hls.doppiocdn.com/hls/128252756/master/128252756.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155430467
+https://edge-hls.doppiocdn.com/hls/155430467/master/155430467.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:12628162
+https://edge-hls.doppiocdn.com/hls/12628162/master/12628162.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:128945352
+https://edge-hls.doppiocdn.com/hls/128945352/master/128945352.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:72945138
+https://edge-hls.doppiocdn.com/hls/72945138/master/72945138.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:133880770
+https://edge-hls.doppiocdn.com/hls/133880770/master/133880770.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:2128747
+https://edge-hls.doppiocdn.com/hls/2128747/master/2128747.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:103543873
+https://edge-hls.doppiocdn.com/hls/103543873/master/103543873.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:131803271
+https://edge-hls.doppiocdn.com/hls/131803271/master/131803271.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:68024103
+https://edge-hls.doppiocdn.com/hls/68024103/master/68024103.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:73963587
+https://edge-hls.doppiocdn.com/hls/73963587/master/73963587.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:54577993
+https://edge-hls.doppiocdn.com/hls/54577993/master/54577993.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:69096885
+https://edge-hls.doppiocdn.com/hls/69096885/master/69096885.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:20122686
+https://edge-hls.doppiocdn.com/hls/20122686/master/20122686.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:18035892
+https://edge-hls.doppiocdn.com/hls/18035892/master/18035892.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:20045997
+https://edge-hls.doppiocdn.com/hls/20045997/master/20045997.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:110380747
+https://edge-hls.doppiocdn.com/hls/110380747/master/110380747.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:82019680
+https://edge-hls.doppiocdn.com/hls/82019680/master/82019680.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:114868393
+https://edge-hls.doppiocdn.com/hls/114868393/master/114868393.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:82357353
+https://edge-hls.doppiocdn.com/hls/82357353/master/82357353.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:142817010
+https://edge-hls.doppiocdn.com/hls/142817010/master/142817010.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:31955725
+https://edge-hls.doppiocdn.com/hls/31955725/master/31955725.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:41232234
+https://edge-hls.doppiocdn.com/hls/41232234/master/41232234.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:129186859
+https://edge-hls.doppiocdn.com/hls/129186859/master/129186859.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:149149808
+https://edge-hls.doppiocdn.com/hls/149149808/master/149149808.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:141836668
+https://edge-hls.doppiocdn.com/hls/141836668/master/141836668.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:104925913
+https://edge-hls.doppiocdn.com/hls/104925913/master/104925913.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:118004807
+https://edge-hls.doppiocdn.com/hls/118004807/master/118004807.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:141551696
+https://edge-hls.doppiocdn.com/hls/141551696/master/141551696.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:77340742
+https://edge-hls.doppiocdn.com/hls/77340742/master/77340742.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:87839352
+https://edge-hls.doppiocdn.com/hls/87839352/master/87839352.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:154676899
+https://edge-hls.doppiocdn.com/hls/154676899/master/154676899.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:34786110
+https://edge-hls.doppiocdn.com/hls/34786110/master/34786110.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:61797920
+https://edge-hls.doppiocdn.com/hls/61797920/master/61797920.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:49052982
+https://edge-hls.doppiocdn.com/hls/49052982/master/49052982.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:96599887
+https://edge-hls.doppiocdn.com/hls/96599887/master/96599887.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:37430960
+https://edge-hls.doppiocdn.com/hls/37430960/master/37430960.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:133368608
+https://edge-hls.doppiocdn.com/hls/133368608/master/133368608.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:100296336
+https://edge-hls.doppiocdn.com/hls/100296336/master/100296336.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:91056957
+https://edge-hls.doppiocdn.com/hls/91056957/master/91056957.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:114452550
+https://edge-hls.doppiocdn.com/hls/114452550/master/114452550.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:103506460
+https://edge-hls.doppiocdn.com/hls/103506460/master/103506460.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:117072290
+https://edge-hls.doppiocdn.com/hls/117072290/master/117072290.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:118940559
+https://edge-hls.doppiocdn.com/hls/118940559/master/118940559.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:101597244
+https://edge-hls.doppiocdn.com/hls/101597244/master/101597244.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:53362836
+https://edge-hls.doppiocdn.com/hls/53362836/master/53362836.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:148576488
+https://edge-hls.doppiocdn.com/hls/148576488/master/148576488.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:35538378
+https://edge-hls.doppiocdn.com/hls/35538378/master/35538378.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:109576313
+https://edge-hls.doppiocdn.com/hls/109576313/master/109576313.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:55967960
+https://edge-hls.doppiocdn.com/hls/55967960/master/55967960.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:2317107
+https://edge-hls.doppiocdn.com/hls/2317107/master/2317107.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:155382790
+https://edge-hls.doppiocdn.com/hls/155382790/master/155382790.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:130968925
+https://edge-hls.doppiocdn.com/hls/130968925/master/130968925.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:122227676
+https://edge-hls.doppiocdn.com/hls/122227676/master/122227676.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:33235663
+https://edge-hls.doppiocdn.com/hls/33235663/master/33235663.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:65410461
+https://edge-hls.doppiocdn.com/hls/65410461/master/65410461.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:85624527
+https://edge-hls.doppiocdn.com/hls/85624527/master/85624527.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:91467040
+https://edge-hls.doppiocdn.com/hls/91467040/master/91467040.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:91056641
+https://edge-hls.doppiocdn.com/hls/91056641/master/91056641.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:90879416
+https://edge-hls.doppiocdn.com/hls/90879416/master/90879416.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:9077627
+https://edge-hls.doppiocdn.com/hls/9077627/master/9077627.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:90698448
+https://edge-hls.doppiocdn.com/hls/90698448/master/90698448.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:90411906
+https://edge-hls.doppiocdn.com/hls/90411906/master/90411906.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:90449345
+https://edge-hls.doppiocdn.com/hls/90449345/master/90449345.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:89477506
+https://edge-hls.doppiocdn.com/hls/89477506/master/89477506.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:89173168
+https://edge-hls.doppiocdn.com/hls/89173168/master/89173168.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:89149108
+https://edge-hls.doppiocdn.com/hls/89149108/master/89149108.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:88809542
+https://edge-hls.doppiocdn.com/hls/88809542/master/88809542.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:88007721
+https://edge-hls.doppiocdn.com/hls/88007721/master/88007721.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:88059925
+https://edge-hls.doppiocdn.com/hls/88059925/master/88059925.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:87855735
+https://edge-hls.doppiocdn.com/hls/87855735/master/87855735.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:87741149
+https://edge-hls.doppiocdn.com/hls/87741149/master/87741149.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:87419454
+https://edge-hls.doppiocdn.com/hls/87419454/master/87419454.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:87338993
+https://edge-hls.doppiocdn.com/hls/87338993/master/87338993.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:87074311
+https://edge-hls.doppiocdn.com/hls/87074311/master/87074311.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:8699616
+https://edge-hls.doppiocdn.com/hls/8699616/master/8699616.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:87009473
+https://edge-hls.doppiocdn.com/hls/87009473/master/87009473.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:86974004
+https://edge-hls.doppiocdn.com/hls/86974004/master/86974004.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:86626528
+https://edge-hls.doppiocdn.com/hls/86626528/master/86626528.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:86461919
+https://edge-hls.doppiocdn.com/hls/86461919/master/86461919.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:86284547
+https://edge-hls.doppiocdn.com/hls/86284547/master/86284547.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:85857523
+https://edge-hls.doppiocdn.com/hls/85857523/master/85857523.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:85492111
+https://edge-hls.doppiocdn.com/hls/85492111/master/85492111.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:85650281
+https://edge-hls.doppiocdn.com/hls/85650281/master/85650281.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:85137308
+https://edge-hls.doppiocdn.com/hls/85137308/master/85137308.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:84934415
+https://edge-hls.doppiocdn.com/hls/84934415/master/84934415.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:84950612
+https://edge-hls.doppiocdn.com/hls/84950612/master/84950612.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:84346455
+https://edge-hls.doppiocdn.com/hls/84346455/master/84346455.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:84437234
+https://edge-hls.doppiocdn.com/hls/84437234/master/84437234.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:84219044
+https://edge-hls.doppiocdn.com/hls/84219044/master/84219044.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:84002412
+https://edge-hls.doppiocdn.com/hls/84002412/master/84002412.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:83266138
+https://edge-hls.doppiocdn.com/hls/83266138/master/83266138.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:82819121
+https://edge-hls.doppiocdn.com/hls/82819121/master/82819121.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:82729247
+https://edge-hls.doppiocdn.com/hls/82729247/master/82729247.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:82384886
+https://edge-hls.doppiocdn.com/hls/82384886/master/82384886.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:82221527
+https://edge-hls.doppiocdn.com/hls/82221527/master/82221527.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:82286177
+https://edge-hls.doppiocdn.com/hls/82286177/master/82286177.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:82011305
+https://edge-hls.doppiocdn.com/hls/82011305/master/82011305.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:82626429
+https://edge-hls.doppiocdn.com/hls/82626429/master/82626429.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:81208834
+https://edge-hls.doppiocdn.com/hls/81208834/master/81208834.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:81174982
+https://edge-hls.doppiocdn.com/hls/81174982/master/81174982.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:80903867
+https://edge-hls.doppiocdn.com/hls/80903867/master/80903867.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:80565541
+https://edge-hls.doppiocdn.com/hls/80565541/master/80565541.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:79925959
+https://edge-hls.doppiocdn.com/hls/79925959/master/79925959.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:79847842
+https://edge-hls.doppiocdn.com/hls/79847842/master/79847842.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:79377403
+https://edge-hls.doppiocdn.com/hls/79377403/master/79377403.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:79371105
+https://edge-hls.doppiocdn.com/hls/79371105/master/79371105.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:79205068
+https://edge-hls.doppiocdn.com/hls/79205068/master/79205068.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:78596352
+https://edge-hls.doppiocdn.com/hls/78596352/master/78596352.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:78310831
+https://edge-hls.doppiocdn.com/hls/78310831/master/78310831.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:78377802
+https://edge-hls.doppiocdn.com/hls/78377802/master/78377802.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:78137849
+https://edge-hls.doppiocdn.com/hls/78137849/master/78137849.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:78306468
+https://edge-hls.doppiocdn.com/hls/78306468/master/78306468.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:77823194
+https://edge-hls.doppiocdn.com/hls/77823194/master/77823194.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:77939794
+https://edge-hls.doppiocdn.com/hls/77939794/master/77939794.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:77776636
+https://edge-hls.doppiocdn.com/hls/77776636/master/77776636.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:77420309
+https://edge-hls.doppiocdn.com/hls/77420309/master/77420309.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:76498653
+https://edge-hls.doppiocdn.com/hls/76498653/master/76498653.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:76420972
+https://edge-hls.doppiocdn.com/hls/76420972/master/76420972.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:76157196
+https://edge-hls.doppiocdn.com/hls/76157196/master/76157196.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:76107767
+https://edge-hls.doppiocdn.com/hls/76107767/master/76107767.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:75816893
+https://edge-hls.doppiocdn.com/hls/75816893/master/75816893.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:75750597
+https://edge-hls.doppiocdn.com/hls/75750597/master/75750597.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:75742043
+https://edge-hls.doppiocdn.com/hls/75742043/master/75742043.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:75491958
+https://edge-hls.doppiocdn.com/hls/75491958/master/75491958.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:75409152
+https://edge-hls.doppiocdn.com/hls/75409152/master/75409152.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:75219301
+https://edge-hls.doppiocdn.com/hls/75219301/master/75219301.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:74513135
+https://edge-hls.doppiocdn.com/hls/74513135/master/74513135.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:74513313
+https://edge-hls.doppiocdn.com/hls/74513313/master/74513313.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:74508984
+https://edge-hls.doppiocdn.com/hls/74508984/master/74508984.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:74223867
+https://edge-hls.doppiocdn.com/hls/74223867/master/74223867.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:73884057
+https://edge-hls.doppiocdn.com/hls/73884057/master/73884057.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:73759507
+https://edge-hls.doppiocdn.com/hls/73759507/master/73759507.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:73562445
+https://edge-hls.doppiocdn.com/hls/73562445/master/73562445.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:7341869
+https://edge-hls.doppiocdn.com/hls/7341869/master/7341869.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:73209147
+https://edge-hls.doppiocdn.com/hls/73209147/master/73209147.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:73079811
+https://edge-hls.doppiocdn.com/hls/73079811/master/73079811.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:72704673
+https://edge-hls.doppiocdn.com/hls/72704673/master/72704673.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:72784525
+https://edge-hls.doppiocdn.com/hls/72784525/master/72784525.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:72585584
+https://edge-hls.doppiocdn.com/hls/72585584/master/72585584.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:72467350
+https://edge-hls.doppiocdn.com/hls/72467350/master/72467350.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:72170783
+https://edge-hls.doppiocdn.com/hls/72170783/master/72170783.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:71572945
+https://edge-hls.doppiocdn.com/hls/71572945/master/71572945.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:71887870
+https://edge-hls.doppiocdn.com/hls/71887870/master/71887870.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:71208255
+https://edge-hls.doppiocdn.com/hls/71208255/master/71208255.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:70931650
+https://edge-hls.doppiocdn.com/hls/70931650/master/70931650.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:70928729
+https://edge-hls.doppiocdn.com/hls/70928729/master/70928729.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:70730770
+https://edge-hls.doppiocdn.com/hls/70730770/master/70730770.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:70608207
+https://edge-hls.doppiocdn.com/hls/70608207/master/70608207.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:70687646
+https://edge-hls.doppiocdn.com/hls/70687646/master/70687646.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:70592983
+https://edge-hls.doppiocdn.com/hls/70592983/master/70592983.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:70521298
+https://edge-hls.doppiocdn.com/hls/70521298/master/70521298.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:7057914
+https://edge-hls.doppiocdn.com/hls/7057914/master/7057914.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:70405922
+https://edge-hls.doppiocdn.com/hls/70405922/master/70405922.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:69597675
+https://edge-hls.doppiocdn.com/hls/69597675/master/69597675.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:67365379
+https://edge-hls.doppiocdn.com/hls/67365379/master/67365379.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:66687475
+https://edge-hls.doppiocdn.com/hls/66687475/master/66687475.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:66604286
+https://edge-hls.doppiocdn.com/hls/66604286/master/66604286.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:67965430
+https://edge-hls.doppiocdn.com/hls/67965430/master/67965430.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:66255220
+https://edge-hls.doppiocdn.com/hls/66255220/master/66255220.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:65831505
+https://edge-hls.doppiocdn.com/hls/65831505/master/65831505.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:65983255
+https://edge-hls.doppiocdn.com/hls/65983255/master/65983255.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:65637229
+https://edge-hls.doppiocdn.com/hls/65637229/master/65637229.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:65564858
+https://edge-hls.doppiocdn.com/hls/65564858/master/65564858.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:64846233
+https://edge-hls.doppiocdn.com/hls/64846233/master/64846233.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:64929100
+https://edge-hls.doppiocdn.com/hls/64929100/master/64929100.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:6478412
+https://edge-hls.doppiocdn.com/hls/6478412/master/6478412.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:64515930
+https://edge-hls.doppiocdn.com/hls/64515930/master/64515930.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:63974567
+https://edge-hls.doppiocdn.com/hls/63974567/master/63974567.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:62762302
+https://edge-hls.doppiocdn.com/hls/62762302/master/62762302.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:63618442
+https://edge-hls.doppiocdn.com/hls/63618442/master/63618442.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:62678473
+https://edge-hls.doppiocdn.com/hls/62678473/master/62678473.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:62316477
+https://edge-hls.doppiocdn.com/hls/62316477/master/62316477.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:61816274
+https://edge-hls.doppiocdn.com/hls/61816274/master/61816274.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:61737469
+https://edge-hls.doppiocdn.com/hls/61737469/master/61737469.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:61510053
+https://edge-hls.doppiocdn.com/hls/61510053/master/61510053.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:61280294
+https://edge-hls.doppiocdn.com/hls/61280294/master/61280294.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:6071966
+https://edge-hls.doppiocdn.com/hls/6071966/master/6071966.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:60283358
+https://edge-hls.doppiocdn.com/hls/60283358/master/60283358.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:58893044
+https://edge-hls.doppiocdn.com/hls/58893044/master/58893044.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:5808803
+https://edge-hls.doppiocdn.com/hls/5808803/master/5808803.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:56088055
+https://edge-hls.doppiocdn.com/hls/56088055/master/56088055.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:56483110
+https://edge-hls.doppiocdn.com/hls/56483110/master/56483110.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:56012723
+https://edge-hls.doppiocdn.com/hls/56012723/master/56012723.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:55997344
+https://edge-hls.doppiocdn.com/hls/55997344/master/55997344.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:55841645
+https://edge-hls.doppiocdn.com/hls/55841645/master/55841645.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:55338259
+https://edge-hls.doppiocdn.com/hls/55338259/master/55338259.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:55125877
+https://edge-hls.doppiocdn.com/hls/55125877/master/55125877.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:54904239
+https://edge-hls.doppiocdn.com/hls/54904239/master/54904239.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:54731664
+https://edge-hls.doppiocdn.com/hls/54731664/master/54731664.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:53804490
+https://edge-hls.doppiocdn.com/hls/53804490/master/53804490.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:54095265
+https://edge-hls.doppiocdn.com/hls/54095265/master/54095265.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:54099363
+https://edge-hls.doppiocdn.com/hls/54099363/master/54099363.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:53406458
+https://edge-hls.doppiocdn.com/hls/53406458/master/53406458.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:5263251
+https://edge-hls.doppiocdn.com/hls/5263251/master/5263251.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:52242808
+https://edge-hls.doppiocdn.com/hls/52242808/master/52242808.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:51650744
+https://edge-hls.doppiocdn.com/hls/51650744/master/51650744.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:51763207
+https://edge-hls.doppiocdn.com/hls/51763207/master/51763207.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:5157321
+https://edge-hls.doppiocdn.com/hls/5157321/master/5157321.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:50731961
+https://edge-hls.doppiocdn.com/hls/50731961/master/50731961.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:49673446
+https://edge-hls.doppiocdn.com/hls/49673446/master/49673446.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:50598038
+https://edge-hls.doppiocdn.com/hls/50598038/master/50598038.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:49270503
+https://edge-hls.doppiocdn.com/hls/49270503/master/49270503.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:48727803
+https://edge-hls.doppiocdn.com/hls/48727803/master/48727803.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:48721496
+https://edge-hls.doppiocdn.com/hls/48721496/master/48721496.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:48379001
+https://edge-hls.doppiocdn.com/hls/48379001/master/48379001.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:49062562
+https://edge-hls.doppiocdn.com/hls/49062562/master/49062562.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:4773257
+https://edge-hls.doppiocdn.com/hls/4773257/master/4773257.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:47151303
+https://edge-hls.doppiocdn.com/hls/47151303/master/47151303.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:46493045
+https://edge-hls.doppiocdn.com/hls/46493045/master/46493045.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:45445148
+https://edge-hls.doppiocdn.com/hls/45445148/master/45445148.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:43959390
+https://edge-hls.doppiocdn.com/hls/43959390/master/43959390.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:43508811
+https://edge-hls.doppiocdn.com/hls/43508811/master/43508811.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:43420487
+https://edge-hls.doppiocdn.com/hls/43420487/master/43420487.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:43392966
+https://edge-hls.doppiocdn.com/hls/43392966/master/43392966.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:42763804
+https://edge-hls.doppiocdn.com/hls/42763804/master/42763804.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:41405018
+https://edge-hls.doppiocdn.com/hls/41405018/master/41405018.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:41024209
+https://edge-hls.doppiocdn.com/hls/41024209/master/41024209.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:40203428
+https://edge-hls.doppiocdn.com/hls/40203428/master/40203428.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:39787566
+https://edge-hls.doppiocdn.com/hls/39787566/master/39787566.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:38572351
+https://edge-hls.doppiocdn.com/hls/38572351/master/38572351.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:36569072
+https://edge-hls.doppiocdn.com/hls/36569072/master/36569072.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:37081213
+https://edge-hls.doppiocdn.com/hls/37081213/master/37081213.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:37337570
+https://edge-hls.doppiocdn.com/hls/37337570/master/37337570.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:35834065
+https://edge-hls.doppiocdn.com/hls/35834065/master/35834065.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:35242126
+https://edge-hls.doppiocdn.com/hls/35242126/master/35242126.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:34325179
+https://edge-hls.doppiocdn.com/hls/34325179/master/34325179.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:342658
+https://edge-hls.doppiocdn.com/hls/342658/master/342658.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:33804808
+https://edge-hls.doppiocdn.com/hls/33804808/master/33804808.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:33223283
+https://edge-hls.doppiocdn.com/hls/33223283/master/33223283.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:32315854
+https://edge-hls.doppiocdn.com/hls/32315854/master/32315854.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:3245172
+https://edge-hls.doppiocdn.com/hls/3245172/master/3245172.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:31360363
+https://edge-hls.doppiocdn.com/hls/31360363/master/31360363.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:31680339
+https://edge-hls.doppiocdn.com/hls/31680339/master/31680339.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:300483
+https://edge-hls.doppiocdn.com/hls/300483/master/300483.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:29031295
+https://edge-hls.doppiocdn.com/hls/29031295/master/29031295.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:29108014
+https://edge-hls.doppiocdn.com/hls/29108014/master/29108014.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:27147071
+https://edge-hls.doppiocdn.com/hls/27147071/master/27147071.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:26616609
+https://edge-hls.doppiocdn.com/hls/26616609/master/26616609.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:26925789
+https://edge-hls.doppiocdn.com/hls/26925789/master/26925789.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:27086003
+https://edge-hls.doppiocdn.com/hls/27086003/master/27086003.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:26932422
+https://edge-hls.doppiocdn.com/hls/26932422/master/26932422.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:25701890
+https://edge-hls.doppiocdn.com/hls/25701890/master/25701890.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:25184253
+https://edge-hls.doppiocdn.com/hls/25184253/master/25184253.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:23457324
+https://edge-hls.doppiocdn.com/hls/23457324/master/23457324.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:22937317
+https://edge-hls.doppiocdn.com/hls/22937317/master/22937317.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:22453663
+https://edge-hls.doppiocdn.com/hls/22453663/master/22453663.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:21357766
+https://edge-hls.doppiocdn.com/hls/21357766/master/21357766.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:21103006
+https://edge-hls.doppiocdn.com/hls/21103006/master/21103006.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:23328114
+https://edge-hls.doppiocdn.com/hls/23328114/master/23328114.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:20736659
+https://edge-hls.doppiocdn.com/hls/20736659/master/20736659.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:20521705
+https://edge-hls.doppiocdn.com/hls/20521705/master/20521705.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:20308341
+https://edge-hls.doppiocdn.com/hls/20308341/master/20308341.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:20156402
+https://edge-hls.doppiocdn.com/hls/20156402/master/20156402.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:20075
+https://edge-hls.doppiocdn.com/hls/20075/master/20075.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:19477526
+https://edge-hls.doppiocdn.com/hls/19477526/master/19477526.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:18913
+https://edge-hls.doppiocdn.com/hls/18913/master/18913.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:19250231
+https://edge-hls.doppiocdn.com/hls/19250231/master/19250231.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:18193340
+https://edge-hls.doppiocdn.com/hls/18193340/master/18193340.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:1761777
+https://edge-hls.doppiocdn.com/hls/1761777/master/1761777.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:1754640
+https://edge-hls.doppiocdn.com/hls/1754640/master/1754640.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:17162
+https://edge-hls.doppiocdn.com/hls/17162/master/17162.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:16470147
+https://edge-hls.doppiocdn.com/hls/16470147/master/16470147.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:17319768
+https://edge-hls.doppiocdn.com/hls/17319768/master/17319768.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:14103424
+https://edge-hls.doppiocdn.com/hls/14103424/master/14103424.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:13344560
+https://edge-hls.doppiocdn.com/hls/13344560/master/13344560.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:1210706
+https://edge-hls.doppiocdn.com/hls/1210706/master/1210706.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:1182565
+https://edge-hls.doppiocdn.com/hls/1182565/master/1182565.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:1174779
+https://edge-hls.doppiocdn.com/hls/1174779/master/1174779.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:1143195
+https://edge-hls.doppiocdn.com/hls/1143195/master/1143195.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:11263
+https://edge-hls.doppiocdn.com/hls/11263/master/11263.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:10346230
+https://edge-hls.doppiocdn.com/hls/10346230/master/10346230.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:10249344
+https://edge-hls.doppiocdn.com/hls/10249344/master/10249344.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:10048663
+https://edge-hls.doppiocdn.com/hls/10048663/master/10048663.m3u8
+#EXTINF:-1 group-title="Stripchat" tvg-logo="https://yang-1989.eu.org/logo/STRIPCHAT.png",ID:10329475
+https://edge-hls.doppiocdn.com/hls/10329475/master/10329475.m3u8
 
